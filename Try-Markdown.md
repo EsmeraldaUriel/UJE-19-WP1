@@ -9,3 +9,9 @@ Nagtrabaho siya nang walang tigil sa kanyang maliit na pagawaan, gamit ang mga m
 
 >"Magbabago ang ating bayan dahil sa imbensyong ito," naisip ni Lena habang maingat na ikinakabit ang huling bahagi. Tinawag niya ang kanyang imbensyon na **Sky Glider 3000**.
 
+| Materyal | Layunin|
+|----------|--------|
+| _Kahoy_    |  Balangkas ng glider|
+| **Bakal**    |  Mga mahahalagang koneksyon|
+| ***Tela***   |  Pakpak ng glider|
+| Aluminum   | Pangpatibay at magaan na timbang|
