@@ -1,6 +1,6 @@
 # What is Elementor?
 
-[Elementor] is a popular page builder plugin for WordPress that allows users to create custom website designs and layouts using a visual drag-and-drop interface. Here are some key features and aspects of Elementor:
+**Elementor** is a popular page builder plugin for WordPress that allows users to create custom website designs and layouts using a visual drag-and-drop interface. Here are some key features and aspects of Elementor:
 
 1. **Drag-and-Drop Editor**: Elementor provides a live, front-end editor that allows you to design and customize your website in real-time by dragging and dropping elements onto the page.
 
